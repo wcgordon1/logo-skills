@@ -1,0 +1,32 @@
+{
+  "scale": {
+    "minimum": 1,
+    "maximum": 5,
+    "meaning": "1 is unacceptable; 3 is viable; 5 is exceptional"
+  },
+  "hard_gates": {
+    "text_correct": null,
+    "small_size_recognizable": null,
+    "monochrome_viable": null,
+    "effects_independent": null,
+    "no_confusing_brand_resemblance": null,
+    "no_artifacts_or_unintended_symbols": null
+  },
+  "scores": {
+    "memorability": null,
+    "silhouette_strength": null,
+    "small_size_recognition": null,
+    "monochrome_viability": null,
+    "brand_fit": null,
+    "originality_and_competitor_distance": null,
+    "construction_coherence": null,
+    "effects_independence": null
+  },
+  "recommendation": {
+    "concept": "",
+    "why_it_wins": "",
+    "risk": "",
+    "next_refinement": "",
+    "production_note": ""
+  }
+}

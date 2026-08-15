@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo Designer"
+  short_description: "Design premium, distinctive startup logos"
+  default_prompt: "Use $logo-designer to create and refine a distinctive premium logo from my brief."
